@@ -1,0 +1,42 @@
+_repo: Where-There-s-Hope_30715
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bixby, Jerome
+    aliases:
+    - Bixby, Drexel Jerome Lewis
+    - Bixby, Jay Lewis
+    - Bixby, Jerry
+    birthdate: 1923
+    deathdate: 1998
+    gutenberg_agent_id: '34130'
+    url: http://www.gutenberg.org/2009/agents/34130
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_Bixby
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Where There's Hope
+url: http://www.gutenberg.org/ebooks/30715
